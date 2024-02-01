@@ -1,0 +1,4 @@
+
+*.pyc
+/Functions/__pycache__/*.pyc
+/Examples/__pycache__/*.pyc
